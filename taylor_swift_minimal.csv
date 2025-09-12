@@ -1,0 +1,583 @@
+track_name,album,year,valence,energy,danceability
+A Perfectly Good Heart,Taylor Swift (Deluxe Edition),2006,0.268,0.751,0.483
+A Place in this World,Taylor Swift (Deluxe Edition),2006,0.428,0.777,0.576
+Cold As You,Taylor Swift (Deluxe Edition),2006,0.261,0.482,0.418
+I'm Only Me When I'm With You,Taylor Swift (Deluxe Edition),2006,0.518,0.934,0.563
+Invisible,Taylor Swift (Deluxe Edition),2006,0.233,0.394,0.612
+Mary's Song (Oh My My My),Taylor Swift (Deluxe Edition),2006,0.374,0.627,0.403
+Our Song,Taylor Swift (Deluxe Edition),2006,0.539,0.672,0.668
+Picture To Burn,Taylor Swift (Deluxe Edition),2006,0.821,0.877,0.658
+Should've Said No,Taylor Swift (Deluxe Edition),2006,0.472,0.777,0.476
+Stay Beautiful,Taylor Swift (Deluxe Edition),2006,0.504,0.629,0.594
+Teardrops On My Guitar - Radio Single Remix,Taylor Swift (Deluxe Edition),2006,0.289,0.417,0.621
+Teardrops on My Guitar - Pop Version,Taylor Swift (Deluxe Edition),2006,0.483,0.753,0.459
+The Outside,Taylor Swift (Deluxe Edition),2006,0.591,0.805,0.589
+Tied Together with a Smile,Taylor Swift (Deluxe Edition),2006,0.192,0.578,0.479
+Tim McGraw,Taylor Swift (Deluxe Edition),2006,0.425,0.491,0.58
+Breathe,Fearless (International Version),2008,0.163,0.472,0.488
+Change,Fearless (International Version),2008,0.214,0.747,0.545
+Fearless,Fearless (International Version),2008,0.472,0.705,0.593
+Fifteen,Fearless (International Version),2008,0.207,0.648,0.555
+Forever & Always,Fearless (International Version),2008,0.55,0.816,0.604
+Hey Stephen,Fearless (International Version),2008,0.826,0.543,0.843
+Love Story,Fearless (International Version),2008,0.34,0.639,0.62
+Our Song - International Mix,Fearless (International Version),2008,0.664,0.696,0.516
+Should've Said No - International Mix,Fearless (International Version),2008,0.454,0.761,0.398
+Teardrops On My Guitar - International Mix,Fearless (International Version),2008,0.152,0.557,0.514
+Tell Me Why,Fearless (International Version),2008,0.476,0.848,0.606
+The Best Day,Fearless (International Version),2008,0.368,0.44,0.671
+The Way I Loved You,Fearless (International Version),2008,0.412,0.723,0.434
+White Horse,Fearless (International Version),2008,0.212,0.342,0.587
+You Belong With Me,Fearless (International Version),2008,0.469,0.775,0.688
+You're Not Sorry,Fearless (International Version),2008,0.309,0.458,0.471
+Breathe,Fearless (Platinum Edition),2008,0.17,0.486,0.498
+Change,Fearless (Platinum Edition),2008,0.224,0.756,0.548
+Come In With The Rain,Fearless (Platinum Edition),2008,0.23,0.461,0.527
+Fearless,Fearless (Platinum Edition),2008,0.467,0.714,0.598
+Fifteen,Fearless (Platinum Edition),2008,0.214,0.636,0.559
+Forever & Always,Fearless (Platinum Edition),2008,0.514,0.829,0.605
+Forever & Always - Piano Version,Fearless (Platinum Edition),2008,0.294,0.16,0.592
+Hey Stephen,Fearless (Platinum Edition),2008,0.825,0.553,0.843
+Jump Then Fall,Fearless (Platinum Edition),2008,0.82,0.687,0.618
+Love Story,Fearless (Platinum Edition),2008,0.307,0.736,0.618
+SuperStar,Fearless (Platinum Edition),2008,0.228,0.531,0.61
+Tell Me Why,Fearless (Platinum Edition),2008,0.513,0.852,0.601
+The Best Day,Fearless (Platinum Edition),2008,0.364,0.447,0.664
+The Other Side Of The Door,Fearless (Platinum Edition),2008,0.469,0.816,0.476
+The Way I Loved You,Fearless (Platinum Edition),2008,0.379,0.712,0.436
+Untouchable,Fearless (Platinum Edition),2008,0.288,0.454,0.419
+White Horse,Fearless (Platinum Edition),2008,0.195,0.346,0.585
+You Belong With Me,Fearless (Platinum Edition),2008,0.445,0.771,0.687
+You're Not Sorry,Fearless (Platinum Edition),2008,0.281,0.459,0.459
+Beautiful Eyes - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.457,0.704,0.627
+Change - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.273,0.712,0.243
+Fearless - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.467,0.266,0.623
+Love Story - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.512,0.444,0.741
+Picture To Burn - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.684,0.872,0.647
+Should've Said No - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.438,0.808,0.429
+Teardrops On My Guitar - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.615,0.801,0.344
+Untouchable - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008,0.331,0.184,0.731
+Back To December,Speak Now,2010,0.296,0.606,0.517
+Better Than Revenge,Speak Now,2010,0.652,0.917,0.519
+Dear John,Speak Now,2010,0.126,0.468,0.583
+Enchanted,Speak Now,2010,0.228,0.618,0.535
+Haunted,Speak Now,2010,0.361,0.944,0.434
+Innocent,Speak Now,2010,0.186,0.604,0.553
+Last Kiss,Speak Now,2010,0.208,0.329,0.359
+Long Live,Speak Now,2010,0.146,0.682,0.412
+Mean,Speak Now,2010,0.808,0.747,0.57
+Mine - POP Mix,Speak Now,2010,0.692,0.768,0.696
+Never Grow Up,Speak Now,2010,0.547,0.308,0.715
+Sparks Fly,Speak Now,2010,0.376,0.785,0.608
+Speak Now,Speak Now,2010,0.742,0.601,0.708
+The Story Of Us,Speak Now,2010,0.84,0.855,0.575
+Back To December,Speak Now (Deluxe Package),2010,0.296,0.606,0.517
+Back To December,Speak Now (Deluxe Package),2010,0.281,0.676,0.525
+Back To December - Acoustic,Speak Now (Deluxe Package),2010,0.333,0.451,0.541
+Better Than Revenge,Speak Now (Deluxe Package),2010,0.652,0.917,0.519
+Dear John,Speak Now (Deluxe Package),2010,0.126,0.468,0.583
+Enchanted,Speak Now (Deluxe Package),2010,0.228,0.618,0.535
+Haunted,Speak Now (Deluxe Package),2010,0.361,0.944,0.434
+Haunted - Acoustic Version,Speak Now (Deluxe Package),2010,0.314,0.462,0.574
+If This Was A Movie,Speak Now (Deluxe Package),2010,0.257,0.724,0.515
+Innocent,Speak Now (Deluxe Package),2010,0.186,0.604,0.553
+Last Kiss,Speak Now (Deluxe Package),2010,0.208,0.329,0.359
+Long Live,Speak Now (Deluxe Package),2010,0.146,0.682,0.412
+Mean,Speak Now (Deluxe Package),2010,0.808,0.747,0.57
+Mine,Speak Now (Deluxe Package),2010,0.672,0.78,0.621
+Mine - POP Mix,Speak Now (Deluxe Package),2010,0.692,0.768,0.696
+Never Grow Up,Speak Now (Deluxe Package),2010,0.547,0.308,0.715
+Ours,Speak Now (Deluxe Package),2010,0.192,0.556,0.61
+Sparks Fly,Speak Now (Deluxe Package),2010,0.376,0.785,0.608
+Speak Now,Speak Now (Deluxe Package),2010,0.742,0.601,0.708
+Superman,Speak Now (Deluxe Package),2010,0.547,0.817,0.582
+The Story Of Us,Speak Now (Deluxe Package),2010,0.84,0.855,0.575
+The Story Of Us,Speak Now (Deluxe Package),2010,0.649,0.809,0.546
+Back To December/Apologize/You're Not Sorry - Live/2011/Medley,Speak Now World Tour Live,2010,0.171,0.516,0.374
+Bette Davis Eyes - Live/2011,Speak Now World Tour Live,2010,0.363,0.488,0.327
+Better Than Revenge - Live/2011,Speak Now World Tour Live,2010,0.386,0.887,0.445
+Dear John - Live/2011,Speak Now World Tour Live,2010,0.138,0.386,0.521
+Drops Of Jupiter - Live/2011,Speak Now World Tour Live,2010,0.27,0.504,0.374
+Enchanted - Live/2011,Speak Now World Tour Live,2010,0.214,0.663,0.34
+Haunted - Live/2011,Speak Now World Tour Live,2010,0.177,0.818,0.338
+I Want You Back - Live/2011,Speak Now World Tour Live,2010,0.249,0.512,0.536
+Last Kiss - Live/2011,Speak Now World Tour Live,2010,0.188,0.395,0.427
+Long Live - Live/2011,Speak Now World Tour Live,2010,0.204,0.728,0.544
+Mean - Live/2011,Speak Now World Tour Live,2010,0.432,0.915,0.429
+Mine - Live/2011,Speak Now World Tour Live,2010,0.442,0.852,0.496
+Ours - Live/2011,Speak Now World Tour Live,2010,0.267,0.355,0.421
+Sparks Fly - Live/2011,Speak Now World Tour Live,2010,0.298,0.783,0.455
+Speak Now - Live/2011,Speak Now World Tour Live,2010,0.373,0.694,0.615
+The Story Of Us - Live,Speak Now World Tour Live,2010,0.472,0.908,0.419
+22,Red,2012,0.668,0.729,0.658
+All Too Well,Red,2012,0.337,0.609,0.602
+Begin Again,Red,2012,0.323,0.526,0.53
+Everything Has Changed,Red,2012,0.436,0.458,0.624
+Holy Ground,Red,2012,0.648,0.816,0.627
+I Almost Do,Red,2012,0.233,0.481,0.567
+I Knew You Were Trouble.,Red,2012,0.679,0.469,0.622
+Red,Red,2012,0.641,0.896,0.602
+Sad Beautiful Tragic,Red,2012,0.261,0.34,0.624
+Starlight,Red,2012,0.587,0.777,0.649
+State Of Grace,Red,2012,0.397,0.825,0.588
+Stay Stay Stay,Red,2012,0.928,0.748,0.729
+The Last Time,Red,2012,0.123,0.443,0.505
+The Lucky One,Red,2012,0.545,0.499,0.706
+Treacherous,Red,2012,0.395,0.621,0.705
+We Are Never Ever Getting Back Together,Red,2012,0.75,0.676,0.628
+22,Red (Deluxe Edition),2012,0.668,0.729,0.661
+All Too Well,Red (Deluxe Edition),2012,0.337,0.609,0.602
+Begin Again,Red (Deluxe Edition),2012,0.323,0.526,0.53
+Come Back...Be Here,Red (Deluxe Edition),2012,0.217,0.548,0.483
+Everything Has Changed,Red (Deluxe Edition),2012,0.436,0.458,0.624
+Girl At Home,Red (Deluxe Edition),2012,0.633,0.59,0.733
+Holy Ground,Red (Deluxe Edition),2012,0.648,0.816,0.627
+I Almost Do,Red (Deluxe Edition),2012,0.233,0.481,0.567
+I Knew You Were Trouble.,Red (Deluxe Edition),2012,0.679,0.469,0.622
+Red,Red (Deluxe Edition),2012,0.641,0.896,0.602
+Red - Original Demo Recording,Red (Deluxe Edition),2012,0.637,0.902,0.678
+Sad Beautiful Tragic,Red (Deluxe Edition),2012,0.261,0.34,0.624
+Starlight,Red (Deluxe Edition),2012,0.587,0.777,0.649
+State Of Grace,Red (Deluxe Edition),2012,0.397,0.825,0.588
+State Of Grace - Acoustic,Red (Deluxe Edition),2012,0.0682,0.118,0.626
+Stay Stay Stay,Red (Deluxe Edition),2012,0.928,0.748,0.729
+The Last Time,Red (Deluxe Edition),2012,0.123,0.443,0.505
+The Lucky One,Red (Deluxe Edition),2012,0.545,0.499,0.706
+The Moment I Knew,Red (Deluxe Edition),2012,0.274,0.506,0.619
+Treacherous,Red (Deluxe Edition),2012,0.395,0.621,0.704
+Treacherous - Original Demo Recording,Red (Deluxe Edition),2012,0.519,0.64,0.828
+We Are Never Ever Getting Back Together,Red (Deluxe Edition),2012,0.75,0.676,0.628
+All You Had To Do Was Stay,1989,2014,0.472,0.735,0.602
+Bad Blood,1989,2014,0.295,0.802,0.652
+Blank Space,1989,2014,0.583,0.678,0.752
+Clean,1989,2014,0.211,0.38,0.81
+How You Get The Girl,1989,2014,0.525,0.659,0.764
+I Know Places,1989,2014,0.507,0.763,0.595
+I Wish You Would,1989,2014,0.503,0.898,0.649
+Out Of The Woods,1989,2014,0.342,0.841,0.552
+Shake It Off,1989,2014,0.943,0.785,0.648
+Style,1989,2014,0.456,0.786,0.598
+This Love,1989,2014,0.0858,0.459,0.485
+Welcome To New York,1989,2014,0.615,0.634,0.793
+Wildest Dreams,1989,2014,0.467,0.664,0.553
+All You Had To Do Was Stay,1989 (Deluxe),2014,0.539,0.725,0.605
+Bad Blood,1989 (Deluxe),2014,0.287,0.794,0.646
+Blank Space,1989 (Deluxe),2014,0.57,0.703,0.76
+Blank Space - Voice Memo,1989 (Deluxe),2014,0.578,0.234,0.675
+Clean,1989 (Deluxe),2014,0.211,0.377,0.815
+How You Get The Girl,1989 (Deluxe),2014,0.545,0.656,0.765
+I Know Places,1989 (Deluxe),2014,0.495,0.755,0.602
+I Know Places - Voice Memo,1989 (Deluxe),2014,0.15,0.128,0.592
+I Wish You Would,1989 (Deluxe),2014,0.513,0.893,0.653
+I Wish You Would - Voice Memo,1989 (Deluxe),2014,0.645,0.357,0.781
+New Romantics,1989 (Deluxe),2014,0.584,0.889,0.633
+Out Of The Woods,1989 (Deluxe),2014,0.338,0.841,0.553
+Shake It Off,1989 (Deluxe),2014,0.942,0.8,0.647
+Style,1989 (Deluxe),2014,0.487,0.791,0.588
+This Love,1989 (Deluxe),2014,0.107,0.435,0.481
+Welcome To New York,1989 (Deluxe),2014,0.658,0.634,0.789
+Wildest Dreams,1989 (Deluxe),2014,0.465,0.688,0.55
+Wonderland,1989 (Deluxe),2014,0.197,0.692,0.422
+You Are In Love,1989 (Deluxe),2014,0.319,0.48,0.474
+...Ready For It?,reputation,2017,0.417,0.764,0.613
+Call It What You Want,reputation,2017,0.252,0.504,0.598
+Dancing With Our Hands Tied,reputation,2017,0.284,0.691,0.624
+Delicate,reputation,2017,0.0499,0.404,0.75
+Don’t Blame Me,reputation,2017,0.193,0.534,0.615
+Dress,reputation,2017,0.0851,0.469,0.719
+End Game,reputation,2017,0.151,0.589,0.649
+Getaway Car,reputation,2017,0.351,0.689,0.562
+Gorgeous,reputation,2017,0.451,0.535,0.8
+I Did Something Bad,reputation,2017,0.305,0.602,0.696
+King Of My Heart,reputation,2017,0.314,0.703,0.675
+Look What You Made Me Do,reputation,2017,0.506,0.709,0.766
+New Year’s Day,reputation,2017,0.23,0.151,0.661
+So It Goes...,reputation,2017,0.374,0.61,0.574
+This Is Why We Can't Have Nice Things,reputation,2017,0.438,0.789,0.567
+22,reputation Stadium Tour Surprise Song Playlist,2017,0.677,0.732,0.66
+A Place in this World,reputation Stadium Tour Surprise Song Playlist,2017,0.438,0.767,0.573
+All Too Well,reputation Stadium Tour Surprise Song Playlist,2017,0.317,0.605,0.463
+Babe,reputation Stadium Tour Surprise Song Playlist,2017,0.647,0.785,0.577
+Begin Again,reputation Stadium Tour Surprise Song Playlist,2017,0.312,0.526,0.516
+Better Man,reputation Stadium Tour Surprise Song Playlist,2017,0.508,0.844,0.503
+Breathe,reputation Stadium Tour Surprise Song Playlist,2017,0.167,0.48,0.442
+Change,reputation Stadium Tour Surprise Song Playlist,2017,0.233,0.764,0.543
+Come Back...Be Here,reputation Stadium Tour Surprise Song Playlist,2017,0.22,0.548,0.486
+Enchanted,reputation Stadium Tour Surprise Song Playlist,2017,0.222,0.629,0.536
+Fearless,reputation Stadium Tour Surprise Song Playlist,2017,0.429,0.717,0.603
+Fifteen,reputation Stadium Tour Surprise Song Playlist,2017,0.217,0.63,0.549
+Forever & Always,reputation Stadium Tour Surprise Song Playlist,2017,0.521,0.829,0.607
+Haunted,reputation Stadium Tour Surprise Song Playlist,2017,0.371,0.948,0.43
+Hey Stephen,reputation Stadium Tour Surprise Song Playlist,2017,0.839,0.541,0.843
+Holy Ground,reputation Stadium Tour Surprise Song Playlist,2017,0.648,0.816,0.627
+How You Get The Girl,reputation Stadium Tour Surprise Song Playlist,2017,0.546,0.657,0.764
+I Don’t Wanna Live Forever (Fifty Shades Darker),reputation Stadium Tour Surprise Song Playlist,2017,0.106,0.444,0.73
+I Knew You Were Trouble.,reputation Stadium Tour Surprise Song Playlist,2017,0.666,0.464,0.536
+I Know Places,reputation Stadium Tour Surprise Song Playlist,2017,0.496,0.755,0.603
+I'm Only Me When I'm With You,reputation Stadium Tour Surprise Song Playlist,2017,0.521,0.933,0.556
+Invisible,reputation Stadium Tour Surprise Song Playlist,2017,0.217,0.384,0.608
+Jump Then Fall,reputation Stadium Tour Surprise Song Playlist,2017,0.827,0.699,0.617
+Mean,reputation Stadium Tour Surprise Song Playlist,2017,0.791,0.755,0.576
+Mine,reputation Stadium Tour Surprise Song Playlist,2017,0.662,0.781,0.622
+Never Grow Up,reputation Stadium Tour Surprise Song Playlist,2017,0.546,0.309,0.714
+Our Song,reputation Stadium Tour Surprise Song Playlist,2017,0.565,0.663,0.545
+Ours,reputation Stadium Tour Surprise Song Playlist,2017,0.228,0.56,0.609
+Out Of The Woods,reputation Stadium Tour Surprise Song Playlist,2017,0.339,0.841,0.553
+Red,reputation Stadium Tour Surprise Song Playlist,2017,0.647,0.899,0.605
+So It Goes...,reputation Stadium Tour Surprise Song Playlist,2017,0.371,0.61,0.578
+Sparks Fly,reputation Stadium Tour Surprise Song Playlist,2017,0.399,0.782,0.61
+Speak Now,reputation Stadium Tour Surprise Song Playlist,2017,0.714,0.603,0.712
+Starlight,reputation Stadium Tour Surprise Song Playlist,2017,0.617,0.779,0.649
+State Of Grace,reputation Stadium Tour Surprise Song Playlist,2017,0.383,0.828,0.591
+Teardrops On My Guitar - Radio Single Remix,reputation Stadium Tour Surprise Song Playlist,2017,0.265,0.427,0.626
+The Best Day,reputation Stadium Tour Surprise Song Playlist,2017,0.386,0.448,0.668
+The Lucky One,reputation Stadium Tour Surprise Song Playlist,2017,0.561,0.505,0.706
+The Story Of Us,reputation Stadium Tour Surprise Song Playlist,2017,0.645,0.807,0.547
+This Love,reputation Stadium Tour Surprise Song Playlist,2017,0.108,0.435,0.48
+Tied Together with a Smile,reputation Stadium Tour Surprise Song Playlist,2017,0.238,0.547,0.478
+Treacherous,reputation Stadium Tour Surprise Song Playlist,2017,0.395,0.621,0.704
+Welcome To New York,reputation Stadium Tour Surprise Song Playlist,2017,0.658,0.634,0.789
+White Horse,reputation Stadium Tour Surprise Song Playlist,2017,0.218,0.348,0.578
+Wildest Dreams,reputation Stadium Tour Surprise Song Playlist,2017,0.461,0.688,0.55
+Wonderland,reputation Stadium Tour Surprise Song Playlist,2017,0.197,0.692,0.422
+Afterglow,Lover,2019,0.399,0.449,0.756
+Cornelia Street,Lover,2019,0.248,0.624,0.824
+Cruel Summer,Lover,2019,0.564,0.702,0.552
+Daylight,Lover,2019,0.265,0.496,0.557
+Death By A Thousand Cuts,Lover,2019,0.313,0.732,0.712
+False God,Lover,2019,0.351,0.32,0.739
+I Forgot That You Existed,Lover,2019,0.541,0.316,0.664
+I Think He Knows,Lover,2019,0.416,0.366,0.897
+It’s Nice To Have A Friend,Lover,2019,0.545,0.175,0.737
+London Boy,Lover,2019,0.557,0.71,0.695
+Lover,Lover,2019,0.453,0.543,0.359
+ME! (feat. Brendon Urie of Panic! At The Disco),Lover,2019,0.728,0.83,0.61
+Miss Americana & The Heartbreak Prince,Lover,2019,0.487,0.747,0.662
+Paper Rings,Lover,2019,0.865,0.719,0.811
+Soon You’ll Get Better (feat. The Chicks),Lover,2019,0.421,0.182,0.433
+The Archer,Lover,2019,0.166,0.574,0.292
+The Man,Lover,2019,0.633,0.658,0.777
+You Need To Calm Down,Lover,2019,0.714,0.671,0.771
+champagne problems,evermore,2020,0.32,0.24,0.462
+closure,evermore,2020,0.92,0.704,0.689
+coney island (feat. The National),evermore,2020,0.292,0.537,0.537
+cowboy like me,evermore,2020,0.511,0.517,0.604
+dorothea,evermore,2020,0.354,0.488,0.605
+evermore (feat. Bon Iver),evermore,2020,0.32,0.27,0.39
+gold rush,evermore,2020,0.353,0.462,0.512
+happiness,evermore,2020,0.211,0.334,0.559
+ivy,evermore,2020,0.535,0.545,0.515
+long story short,evermore,2020,0.573,0.73,0.546
+marjorie,evermore,2020,0.287,0.561,0.535
+"no body, no crime (feat. HAIM)",evermore,2020,0.535,0.613,0.546
+tolerate it,evermore,2020,0.221,0.361,0.316
+willow,evermore,2020,0.529,0.574,0.392
+‘tis the damn season,evermore,2020,0.348,0.434,0.575
+august,folklore,2020,0.403,0.623,0.532
+betty,folklore,2020,0.502,0.377,0.593
+cardigan,folklore,2020,0.551,0.581,0.613
+epiphany,folklore,2020,0.106,0.267,0.175
+exile (feat. Bon Iver),folklore,2020,0.152,0.38,0.298
+hoax,folklore,2020,0.429,0.181,0.662
+illicit affairs,folklore,2020,0.46,0.31,0.559
+invisible string,folklore,2020,0.45,0.452,0.653
+mad woman,folklore,2020,0.506,0.699,0.592
+mirrorball,folklore,2020,0.379,0.413,0.553
+my tears ricochet,folklore,2020,0.112,0.263,0.469
+peace,folklore,2020,0.339,0.272,0.647
+seven,folklore,2020,0.415,0.488,0.596
+the 1,folklore,2020,0.172,0.357,0.777
+the last great american dynasty,folklore,2020,0.706,0.662,0.686
+this is me trying,folklore,2020,0.412,0.476,0.515
+august,folklore (deluxe version),2020,0.42,0.634,0.387
+betty,folklore (deluxe version),2020,0.476,0.376,0.595
+cardigan,folklore (deluxe version),2020,0.534,0.58,0.612
+epiphany,folklore (deluxe version),2020,0.103,0.254,0.317
+exile (feat. Bon Iver),folklore (deluxe version),2020,0.16,0.374,0.31
+hoax,folklore (deluxe version),2020,0.404,0.178,0.676
+illicit affairs,folklore (deluxe version),2020,0.44,0.304,0.529
+invisible string,folklore (deluxe version),2020,0.454,0.459,0.651
+mad woman,folklore (deluxe version),2020,0.451,0.7,0.593
+mirrorball,folklore (deluxe version),2020,0.347,0.417,0.549
+my tears ricochet,folklore (deluxe version),2020,0.112,0.265,0.456
+peace,folklore (deluxe version),2020,0.328,0.284,0.644
+seven,folklore (deluxe version),2020,0.374,0.494,0.602
+the 1,folklore (deluxe version),2020,0.163,0.361,0.78
+the lakes - bonus track,folklore (deluxe version),2020,0.268,0.258,0.313
+the last great american dynasty,folklore (deluxe version),2020,0.701,0.653,0.688
+this is me trying,folklore (deluxe version),2020,0.408,0.478,0.511
+august,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.42,0.634,0.387
+august - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.545,0.663,0.554
+betty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.476,0.376,0.595
+betty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.518,0.316,0.538
+cardigan,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.534,0.58,0.612
+cardigan - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.247,0.234,0.395
+epiphany,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.103,0.254,0.317
+epiphany - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.113,0.2,0.524
+exile (feat. Bon Iver),folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.16,0.374,0.31
+exile (feat. Bon Iver) - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.108,0.305,0.359
+hoax,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.404,0.178,0.676
+hoax - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.483,0.155,0.682
+illicit affairs,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.44,0.304,0.529
+illicit affairs - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.435,0.235,0.489
+invisible string,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.454,0.459,0.651
+invisible string - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.351,0.282,0.59
+mad woman,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.451,0.7,0.593
+mad woman - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.346,0.465,0.663
+mirrorball,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.347,0.417,0.549
+mirrorball - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.109,0.386,0.509
+my tears ricochet,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.112,0.265,0.456
+my tears ricochet - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.168,0.172,0.531
+peace,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.328,0.284,0.644
+peace - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.513,0.344,0.619
+seven,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.374,0.494,0.602
+seven - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.363,0.449,0.694
+the 1,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.163,0.361,0.78
+the 1 - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.156,0.25,0.708
+the lakes - bonus track,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.268,0.258,0.313
+the lakes - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.112,0.221,0.606
+the last great american dynasty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.701,0.653,0.688
+the last great american dynasty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.614,0.618,0.64
+this is me trying,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.408,0.478,0.511
+this is me trying - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020,0.157,0.332,0.435
+Breathe (feat. Colbie Caillat) (Taylor’s Version),Fearless (Taylor's Version),2021,0.321,0.626,0.506
+Bye Bye Baby (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021,0.527,0.624,0.624
+Change (Taylor’s Version),Fearless (Taylor's Version),2021,0.344,0.815,0.499
+Come In With The Rain (Taylor’s Version),Fearless (Taylor's Version),2021,0.167,0.564,0.476
+Don’t You (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021,0.405,0.473,0.563
+Fearless (Taylor’s Version),Fearless (Taylor's Version),2021,0.43,0.741,0.569
+Fifteen (Taylor’s Version),Fearless (Taylor's Version),2021,0.289,0.646,0.559
+Forever & Always (Piano Version) (Taylor’s Version),Fearless (Taylor's Version),2021,0.271,0.273,0.546
+Forever & Always (Taylor’s Version),Fearless (Taylor's Version),2021,0.673,0.821,0.598
+Hey Stephen (Taylor’s Version),Fearless (Taylor's Version),2021,0.797,0.571,0.788
+Jump Then Fall (Taylor’s Version),Fearless (Taylor's Version),2021,0.624,0.69,0.572
+Love Story (Taylor’s Version),Fearless (Taylor's Version),2021,0.415,0.792,0.627
+Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021,0.714,0.817,0.66
+Superstar (Taylor’s Version),Fearless (Taylor's Version),2021,0.171,0.555,0.454
+Tell Me Why (Taylor’s Version),Fearless (Taylor's Version),2021,0.541,0.909,0.578
+That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021,0.508,0.608,0.588
+The Best Day (Taylor’s Version),Fearless (Taylor's Version),2021,0.469,0.576,0.642
+The Other Side Of The Door (Taylor’s Version),Fearless (Taylor's Version),2021,0.629,0.873,0.432
+The Way I Loved You (Taylor’s Version),Fearless (Taylor's Version),2021,0.472,0.732,0.402
+Today Was A Fairytale (Taylor’s Version),Fearless (Taylor's Version),2021,0.328,0.779,0.482
+Untouchable (Taylor’s Version),Fearless (Taylor's Version),2021,0.224,0.531,0.393
+We Were Happy (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021,0.13,0.373,0.609
+White Horse (Taylor’s Version),Fearless (Taylor's Version),2021,0.366,0.517,0.423
+You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021,0.44,0.494,0.599
+You Belong With Me (Taylor’s Version),Fearless (Taylor's Version),2021,0.474,0.773,0.632
+You’re Not Sorry (Taylor’s Version),Fearless (Taylor's Version),2021,0.241,0.444,0.506
+22 (Taylor's Version),Red (Taylor's Version),2021,0.642,0.695,0.642
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),2021,0.205,0.518,0.631
+All Too Well (Taylor's Version),Red (Taylor's Version),2021,0.132,0.528,0.44
+Babe (Taylor's Version) (From The Vault),Red (Taylor's Version),2021,0.746,0.743,0.584
+Begin Again (Taylor's Version),Red (Taylor's Version),2021,0.267,0.527,0.519
+Better Man (Taylor's Version) (From The Vault),Red (Taylor's Version),2021,0.255,0.579,0.473
+Come Back...Be Here (Taylor's Version),Red (Taylor's Version),2021,0.399,0.632,0.46
+Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),Red (Taylor's Version),2021,0.474,0.61,0.498
+Forever Winter (Taylor's Version) (From The Vault),Red (Taylor's Version),2021,0.41,0.552,0.611
+Girl At Home (Taylor's Version),Red (Taylor's Version),2021,0.612,0.736,0.691
+Holy Ground (Taylor's Version),Red (Taylor's Version),2021,0.511,0.809,0.622
+I Almost Do (Taylor's Version),Red (Taylor's Version),2021,0.248,0.559,0.511
+I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Red (Taylor's Version),2021,0.473,0.715,0.391
+I Knew You Were Trouble (Taylor's Version),Red (Taylor's Version),2021,0.767,0.557,0.584
+Message In A Bottle (Taylor's Version) (From The Vault),Red (Taylor's Version),2021,0.494,0.791,0.622
+Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),Red (Taylor's Version),2021,0.446,0.377,0.606
+Red (Taylor's Version),Red (Taylor's Version),2021,0.408,0.777,0.516
+Ronan (Taylor's Version),Red (Taylor's Version),2021,0.38,0.279,0.623
+Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Red (Taylor's Version),2021,0.443,0.488,0.61
+Sad Beautiful Tragic (Taylor's Version),Red (Taylor's Version),2021,0.232,0.406,0.601
+Starlight (Taylor's Version),Red (Taylor's Version),2021,0.605,0.685,0.628
+State Of Grace (Acoustic Version) (Taylor's Version),Red (Taylor's Version),2021,0.101,0.131,0.445
+State Of Grace (Taylor's Version),Red (Taylor's Version),2021,0.328,0.713,0.594
+Stay Stay Stay (Taylor's Version),Red (Taylor's Version),2021,0.663,0.681,0.693
+The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),Red (Taylor's Version),2021,0.155,0.534,0.502
+The Lucky One (Taylor's Version),Red (Taylor's Version),2021,0.538,0.571,0.686
+The Moment I Knew (Taylor's Version),Red (Taylor's Version),2021,0.208,0.402,0.636
+The Very First Night (Taylor's Version) (From The Vault),Red (Taylor's Version),2021,0.581,0.733,0.678
+Treacherous (Taylor's Version),Red (Taylor's Version),2021,0.299,0.593,0.645
+We Are Never Ever Getting Back Together (Taylor's Version),Red (Taylor's Version),2021,0.716,0.686,0.567
+champagne problems,evermore (deluxe version),2021,0.32,0.24,0.462
+closure,evermore (deluxe version),2021,0.92,0.704,0.689
+coney island (feat. The National),evermore (deluxe version),2021,0.292,0.537,0.537
+cowboy like me,evermore (deluxe version),2021,0.511,0.517,0.604
+dorothea,evermore (deluxe version),2021,0.354,0.488,0.605
+evermore (feat. Bon Iver),evermore (deluxe version),2021,0.32,0.27,0.39
+gold rush,evermore (deluxe version),2021,0.353,0.462,0.512
+happiness,evermore (deluxe version),2021,0.211,0.334,0.559
+it’s time to go - bonus track,evermore (deluxe version),2021,0.416,0.41,0.592
+ivy,evermore (deluxe version),2021,0.535,0.545,0.515
+long story short,evermore (deluxe version),2021,0.573,0.73,0.546
+marjorie,evermore (deluxe version),2021,0.287,0.561,0.535
+"no body, no crime (feat. HAIM)",evermore (deluxe version),2021,0.535,0.613,0.546
+right where you left me - bonus track,evermore (deluxe version),2021,0.645,0.619,0.581
+tolerate it,evermore (deluxe version),2021,0.221,0.361,0.316
+willow,evermore (deluxe version),2021,0.529,0.574,0.392
+‘tis the damn season,evermore (deluxe version),2021,0.348,0.434,0.575
+Anti-Hero,Midnights,2022,0.49,0.648,0.633
+Bejeweled,Midnights,2022,0.443,0.551,0.687
+Karma,Midnights,2022,0.121,0.619,0.64
+Labyrinth,Midnights,2022,0.132,0.295,0.48
+Lavender Haze,Midnights,2022,0.0955,0.449,0.735
+Maroon,Midnights,2022,0.0384,0.384,0.655
+Mastermind,Midnights,2022,0.137,0.343,0.66
+Midnight Rain,Midnights,2022,0.203,0.375,0.604
+Question...?,Midnights,2022,0.105,0.51,0.654
+Snow On The Beach (feat. Lana Del Rey),Midnights,2022,0.153,0.321,0.663
+Sweet Nothing,Midnights,2022,0.407,0.161,0.336
+Vigilante Shit,Midnights,2022,0.168,0.267,0.872
+"You're On Your Own, Kid",Midnights,2022,0.395,0.39,0.696
+Anti-Hero,Midnights (3am Edition),2022,0.49,0.648,0.633
+Bejeweled,Midnights (3am Edition),2022,0.443,0.551,0.687
+Bigger Than The Whole Sky,Midnights (3am Edition),2022,0.0705,0.22,0.42
+Dear Reader,Midnights (3am Edition),2022,0.151,0.39,0.674
+Glitch,Midnights (3am Edition),2022,0.347,0.47,0.677
+High Infidelity,Midnights (3am Edition),2022,0.768,0.547,0.571
+Karma,Midnights (3am Edition),2022,0.121,0.619,0.64
+Labyrinth,Midnights (3am Edition),2022,0.132,0.295,0.48
+Lavender Haze,Midnights (3am Edition),2022,0.0955,0.449,0.735
+Maroon,Midnights (3am Edition),2022,0.0384,0.384,0.655
+Mastermind,Midnights (3am Edition),2022,0.137,0.343,0.66
+Midnight Rain,Midnights (3am Edition),2022,0.203,0.375,0.604
+Paris,Midnights (3am Edition),2022,0.347,0.518,0.703
+Question...?,Midnights (3am Edition),2022,0.105,0.51,0.654
+Snow On The Beach (feat. Lana Del Rey),Midnights (3am Edition),2022,0.153,0.321,0.663
+Sweet Nothing,Midnights (3am Edition),2022,0.407,0.161,0.336
+The Great War,Midnights (3am Edition),2022,0.574,0.747,0.57
+Vigilante Shit,Midnights (3am Edition),2022,0.168,0.267,0.872
+"Would've, Could've, Should've",Midnights (3am Edition),2022,0.548,0.846,0.485
+"You're On Your Own, Kid",Midnights (3am Edition),2022,0.395,0.39,0.696
+"""Slut!"" (Taylor's Version) (From The Vault)",1989 (Taylor's Version),2023,0.313,0.415,0.621
+All You Had To Do Was Stay (Taylor's Version),1989 (Taylor's Version),2023,0.54,0.713,0.589
+Bad Blood (Taylor's Version),1989 (Taylor's Version),2023,0.347,0.711,0.624
+Blank Space (Taylor's Version),1989 (Taylor's Version),2023,0.71,0.719,0.732
+Clean (Taylor's Version),1989 (Taylor's Version),2023,0.267,0.379,0.782
+How You Get The Girl (Taylor's Version),1989 (Taylor's Version),2023,0.519,0.67,0.761
+I Know Places (Taylor's Version),1989 (Taylor's Version),2023,0.626,0.807,0.572
+I Wish You Would (Taylor's Version),1989 (Taylor's Version),2023,0.523,0.853,0.671
+Is It Over Now? (Taylor's Version) (From The Vault),1989 (Taylor's Version),2023,0.153,0.651,0.599
+New Romantics (Taylor's Version),1989 (Taylor's Version),2023,0.724,0.848,0.653
+Now That We Don't Talk (Taylor's Version) (From The Vault),1989 (Taylor's Version),2023,0.0768,0.509,0.8
+Out Of The Woods (Taylor's Version),1989 (Taylor's Version),2023,0.184,0.884,0.544
+Say Don't Go (Taylor's Version) (From The Vault),1989 (Taylor's Version),2023,0.186,0.539,0.632
+Shake It Off (Taylor's Version),1989 (Taylor's Version),2023,0.903,0.805,0.632
+Style (Taylor's Version),1989 (Taylor's Version),2023,0.298,0.821,0.514
+Suburban Legends (Taylor's Version) (From The Vault),1989 (Taylor's Version),2023,0.394,0.607,0.695
+This Love (Taylor’s Version),1989 (Taylor's Version),2023,0.0524,0.494,0.47
+Welcome To New York (Taylor's Version),1989 (Taylor's Version),2023,0.685,0.602,0.76
+Wildest Dreams (Taylor's Version),1989 (Taylor's Version),2023,0.539,0.663,0.587
+Wonderland (Taylor's Version),1989 (Taylor's Version),2023,0.32,0.703,0.387
+You Are In Love (Taylor's Version),1989 (Taylor's Version),2023,0.401,0.509,0.554
+"""Slut!"" (Taylor's Version) (From The Vault)",1989 (Taylor's Version) [Deluxe],2023,0.313,0.415,0.621
+All You Had To Do Was Stay (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.54,0.713,0.589
+Bad Blood (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.347,0.711,0.624
+Bad Blood (feat. Kendrick Lamar) (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.197,0.644,0.604
+Blank Space (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.71,0.719,0.732
+Clean (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.267,0.379,0.782
+How You Get The Girl (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.519,0.67,0.761
+I Know Places (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.626,0.807,0.572
+I Wish You Would (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.523,0.853,0.671
+Is It Over Now? (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],2023,0.153,0.651,0.599
+New Romantics (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.724,0.848,0.653
+Now That We Don't Talk (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],2023,0.0768,0.509,0.8
+Out Of The Woods (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.184,0.884,0.544
+Say Don't Go (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],2023,0.186,0.539,0.632
+Shake It Off (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.903,0.805,0.632
+Style (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.298,0.821,0.514
+Suburban Legends (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],2023,0.394,0.607,0.695
+This Love (Taylor’s Version),1989 (Taylor's Version) [Deluxe],2023,0.0524,0.494,0.47
+Welcome To New York (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.685,0.602,0.76
+Wildest Dreams (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.539,0.663,0.587
+Wonderland (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.32,0.703,0.387
+You Are In Love (Taylor's Version),1989 (Taylor's Version) [Deluxe],2023,0.401,0.509,0.554
+Anti-Hero,Midnights (The Til Dawn Edition),2023,0.49,0.648,0.633
+Bejeweled,Midnights (The Til Dawn Edition),2023,0.443,0.551,0.687
+Bigger Than The Whole Sky,Midnights (The Til Dawn Edition),2023,0.0705,0.22,0.42
+Dear Reader,Midnights (The Til Dawn Edition),2023,0.151,0.39,0.674
+Glitch,Midnights (The Til Dawn Edition),2023,0.347,0.47,0.677
+High Infidelity,Midnights (The Til Dawn Edition),2023,0.768,0.547,0.571
+Hits Different,Midnights (The Til Dawn Edition),2023,0.261,0.786,0.666
+Karma,Midnights (The Til Dawn Edition),2023,0.121,0.619,0.64
+Karma (feat. Ice Spice),Midnights (The Til Dawn Edition),2023,0.0705,0.626,0.615
+Labyrinth,Midnights (The Til Dawn Edition),2023,0.132,0.295,0.48
+Lavender Haze,Midnights (The Til Dawn Edition),2023,0.0955,0.449,0.735
+Maroon,Midnights (The Til Dawn Edition),2023,0.0384,0.384,0.655
+Mastermind,Midnights (The Til Dawn Edition),2023,0.137,0.343,0.66
+Midnight Rain,Midnights (The Til Dawn Edition),2023,0.203,0.375,0.604
+Paris,Midnights (The Til Dawn Edition),2023,0.347,0.518,0.703
+Question...?,Midnights (The Til Dawn Edition),2023,0.105,0.51,0.654
+Snow On The Beach (feat. Lana Del Rey),Midnights (The Til Dawn Edition),2023,0.153,0.321,0.663
+Snow On The Beach (feat. More Lana Del Rey),Midnights (The Til Dawn Edition),2023,0.265,0.399,0.664
+Sweet Nothing,Midnights (The Til Dawn Edition),2023,0.407,0.161,0.336
+The Great War,Midnights (The Til Dawn Edition),2023,0.574,0.747,0.57
+Vigilante Shit,Midnights (The Til Dawn Edition),2023,0.168,0.267,0.872
+"Would've, Could've, Should've",Midnights (The Til Dawn Edition),2023,0.548,0.846,0.485
+"You're On Your Own, Kid",Midnights (The Til Dawn Edition),2023,0.395,0.39,0.696
+Back To December (Taylor's Version),Speak Now (Taylor's Version),2023,0.235,0.635,0.486
+Better Than Revenge (Taylor's Version),Speak Now (Taylor's Version),2023,0.659,0.893,0.505
+Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023,0.351,0.565,0.578
+Dear John (Taylor's Version),Speak Now (Taylor's Version),2023,0.115,0.468,0.379
+Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023,0.26,0.854,0.547
+Enchanted (Taylor's Version),Speak Now (Taylor's Version),2023,0.227,0.553,0.52
+Foolish One (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023,0.557,0.613,0.672
+Haunted (Taylor's Version),Speak Now (Taylor's Version),2023,0.371,0.916,0.44
+I Can See You (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023,0.813,0.768,0.695
+Innocent (Taylor's Version),Speak Now (Taylor's Version),2023,0.126,0.611,0.524
+Last Kiss (Taylor's Version),Speak Now (Taylor's Version),2023,0.187,0.362,0.557
+Long Live (Taylor's Version),Speak Now (Taylor's Version),2023,0.0984,0.628,0.38
+Mean (Taylor's Version),Speak Now (Taylor's Version),2023,0.596,0.7,0.526
+Mine (Taylor's Version),Speak Now (Taylor's Version),2023,0.5,0.793,0.647
+Never Grow Up (Taylor's Version),Speak Now (Taylor's Version),2023,0.572,0.339,0.684
+Ours (Taylor’s Version),Speak Now (Taylor's Version),2023,0.293,0.475,0.539
+Sparks Fly (Taylor’s Version),Speak Now (Taylor's Version),2023,0.366,0.769,0.605
+Speak Now (Taylor's Version),Speak Now (Taylor's Version),2023,0.598,0.686,0.734
+Superman (Taylor’s Version),Speak Now (Taylor's Version),2023,0.347,0.733,0.537
+The Story Of Us (Taylor's Version),Speak Now (Taylor's Version),2023,0.552,0.784,0.516
+Timeless (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023,0.651,0.578,0.629
+When Emma Falls in Love (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023,0.234,0.759,0.524
+But Daddy I Love Him,THE TORTURED POETS DEPARTMENT,2024,0.438,0.72,0.521
+Clara Bow,THE TORTURED POETS DEPARTMENT,2024,0.214,0.318,0.686
+Down Bad,THE TORTURED POETS DEPARTMENT,2024,0.168,0.366,0.541
+Florida!!! (feat. Florence + The Machine),THE TORTURED POETS DEPARTMENT,2024,0.398,0.573,0.533
+Fortnight (feat. Post Malone),THE TORTURED POETS DEPARTMENT,2024,0.281,0.386,0.504
+Fresh Out The Slammer,THE TORTURED POETS DEPARTMENT,2024,0.34,0.483,0.33
+Guilty as Sin?,THE TORTURED POETS DEPARTMENT,2024,0.487,0.428,0.626
+I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT,2024,0.22,0.751,0.701
+I Can Fix Him (No Really I Can),THE TORTURED POETS DEPARTMENT,2024,0.318,0.257,0.661
+My Boy Only Breaks His Favorite Toys,THE TORTURED POETS DEPARTMENT,2024,0.481,0.563,0.596
+"So Long, London",THE TORTURED POETS DEPARTMENT,2024,0.248,0.533,0.423
+The Alchemy,THE TORTURED POETS DEPARTMENT,2024,0.353,0.421,0.64
+The Smallest Man Who Ever Lived,THE TORTURED POETS DEPARTMENT,2024,0.263,0.41,0.426
+The Tortured Poets Department,THE TORTURED POETS DEPARTMENT,2024,0.292,0.428,0.604
+Who’s Afraid of Little Old Me?,THE TORTURED POETS DEPARTMENT,2024,0.238,0.338,0.606
+loml,THE TORTURED POETS DEPARTMENT,2024,0.195,0.272,0.423
+But Daddy I Love Him,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.438,0.72,0.521
+Cassandra,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.514,0.587,0.587
+Chloe or Sam or Sophia or Marcus,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.218,0.451,0.516
+Clara Bow,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.214,0.318,0.686
+Down Bad,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.168,0.366,0.541
+Florida!!! (feat. Florence + The Machine),THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.398,0.573,0.533
+Fortnight (feat. Post Malone),THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.281,0.386,0.504
+Fresh Out The Slammer,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.34,0.483,0.33
+Guilty as Sin?,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.487,0.428,0.626
+How Did It End?,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.273,0.379,0.492
+I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.22,0.751,0.701
+I Can Fix Him (No Really I Can),THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.318,0.257,0.661
+I Hate It Here,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.297,0.562,0.485
+I Look in People's Windows,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.385,0.274,0.763
+My Boy Only Breaks His Favorite Toys,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.481,0.563,0.596
+Peter,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.29,0.376,0.342
+Robin,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.158,0.386,0.476
+So High School,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.293,0.866,0.366
+"So Long, London",THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.248,0.533,0.423
+The Albatross,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.292,0.479,0.352
+The Alchemy,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.353,0.421,0.64
+The Black Dog,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.23,0.27,0.527
+The Bolter,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.481,0.586,0.455
+The Manuscript,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.436,0.256,0.509
+The Prophecy,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.535,0.525,0.421
+The Smallest Man Who Ever Lived,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.263,0.41,0.426
+The Tortured Poets Department,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.292,0.428,0.604
+Who’s Afraid of Little Old Me?,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.238,0.338,0.606
+imgonnagetyouback,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.15,0.391,0.784
+loml,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.195,0.272,0.423
+thanK you aIMee,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024,0.252,0.541,0.609
