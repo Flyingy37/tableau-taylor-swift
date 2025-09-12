@@ -1,2 +1,25 @@
-# tableau-taylor-swift
-Taylor Swift data visualization project for high school data track
+Taylor Swift Data Analysis 🎵
+דשבורד אינטראקטיבי המנתח נתוני טיילור סוויפט
+
+קישור לדשבורד
+צפייה ב-Tableau Public
+
+מה הפרויקט כולל
+ניתוח מאפייני שירים ואלבומים: רגשיות השיר (Valence), אנרגטיות (Energy), ורקדניות (Danceability), והשוואות בין תקופות/אלבומים לאורך זמן.
+כלי עבודה: Tableau (ויזואליזציה ודשבורד), הכנת הנתונים בקובצי CSV/Excel.
+מקור הנתונים: נתוני Spotify עבור שירי טיילור סוויפט (מאפייני אודיו), שהוכנו לקובץ נקי לשימוש בטבלו.
+קבצי נתונים להורדה:
+
+CSV: https://julius.ai/files?filename=taylor_swift_minimal.csv
+Excel: https://julius.ai/files?filename=taylor_swift_minimal.xlsx
+חבילת Tableau מוכנה (.twbx): https://julius.ai/files?filename=taylorswift_dashboard.twbx
+תובנות מעניינות
+פיזור רחב בין Valence ל-Energy: רוב השירים מתפזרים בארבעת הרבעים, מה שמצביע שאין קורלציה חזקה בין “כמה שמח” השיר לבין האנרגטיות שלו. זה מאפשר זיהוי שירים “שקטים ושמחים” מול “עוצמתיים ועצובים”.
+הבדלי “תקופות” ברורים:
+Red/1989 נוטים ל-Valence ו-Danceability גבוהים יותר – מוזיקה יותר קלילה ושמחה לריקוד.
+Folklore/Evermore נוטים לאנרגטיות ו-Valence נמוכים יותר – צליל אינדילאמי/אינטימי יותר.
+Midnights בממוצע ביניים: אנרגטיות בינונית-גבוהה אך Valence מתון.
+מגמה לאורך זמן: חציון ה-Valence נוטה לרדת בעידן המאוחר (אחרי 2019), עם גוונים בוגרים ואינטימיים יותר, לצד שמירה על רמות Danceability סבירות בשנים האחרונות.
+נבנה במסגרת מגמת מידע ונתונים 📊
+
+
